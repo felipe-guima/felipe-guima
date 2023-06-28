@@ -6,7 +6,7 @@
 
 <section> 
   <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="175em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=compact&langs_count=7&theme=dark"/>
 </section>
 
 <section style="display: inline_block"><br>
