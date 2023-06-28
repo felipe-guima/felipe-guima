@@ -5,8 +5,8 @@
 - 💻 Amante da área de tecnologia e entusiasta em aplicar tecnologias na resolução de problemas.
 
 <section> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=compact&langs_count=7&theme=dark"/>
 </section>
 
 <section style="display: inline_block"><br>
