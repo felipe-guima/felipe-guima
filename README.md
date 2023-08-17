@@ -6,7 +6,7 @@
 
 ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <section style="display: inline_block"><br>
