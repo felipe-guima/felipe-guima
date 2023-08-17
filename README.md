@@ -1,8 +1,10 @@
 ### Olá Pessoal 👋 Felipe Guimarães  
 
-- 🌱 Eu estou  aprendendo tecnologias para desemvolvimento web tais como: javaScript, TypeScript, React.
+- 🌱 Eu estou aprendendo tecnologias para desemvolvimento web tais como: javaScript, TypeScript, React.
 
-- 💻 Amante da área de tecnologia e entusiasta em aplicar tecnologias na resolução de problemas.
+- 🌱 Cursando Analise e desenvolvimento de sistemas. Aprendendo C, CSharp, e Java no curso.
+
+- 💻 Amante da área de tecnologia e entusiasta em aplicar a tecnologias na solução de problemas.
 
 ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=radical)
 
