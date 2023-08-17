@@ -4,11 +4,11 @@
 
 - 💻 Amante da área de tecnologia e entusiasta em aplicar tecnologias na resolução de problemas.
 
-<section><img img height="180em" width="52%"src="![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&bg_color=00000000)">
-</section>>
+<img height="180em" width="52%" src="![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&bg_color=00000000)">
 
-<section><img height="180em" width="47%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)">
-</section>
+
+<img height="180em" width="47%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)">
+
 
 <section style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
