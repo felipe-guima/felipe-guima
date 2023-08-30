@@ -6,7 +6,13 @@
 
 - 💻 Amante da área de tecnologia e entusiasta em aplicar a tecnologias na solução de problemas.
 
-<div><style> width="51%"</style>  ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=radical) </div>
+<div>
+<img width="42%" src="link">
+
+ ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=radical) 
+
+</div>
+
 
 <div></div>
 
