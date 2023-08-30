@@ -6,7 +6,9 @@
 
 - 💻 Amante da área de tecnologia e entusiasta em aplicar a tecnologias na solução de problemas.
 
-![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=radical)
+<div><style> width="51%"</style>  ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-guima&show_icons=true&theme=radical) </div>
+
+<div></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-guima&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
