@@ -4,7 +4,7 @@
 
 - 🌱 Cursando Analise e desenvolvimento de sistemas. Aprendendo C, CSharp, e Java no curso.
 
-- 💻 Amante da área de tecnologia e entusiasta em aplicar a tecnologias na solução de problemas.
+- 💻 Amante da área de tecnologia e entusiasta em aplicar as tecnologias na solução de problemas.
   
 
 
